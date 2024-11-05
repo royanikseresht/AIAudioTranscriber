@@ -1,0 +1,28 @@
+/* Style inputs with type="text", type="email", and textareas */
+input[type=text], input[type=email], textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #007BFF; /* Blue border */
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+  background-color: #F0F8FF; /* Light blue background */
+  color: #0056b3; /* Darker blue text color */
+}
+
+/* Style the submit button */
+button[type=submit] {
+  background-color: #007BFF; /* Primary blue background */
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* Hover effect for the submit button */
+button[type=submit]:hover {
+  background-color: #0056b3; /* Darker blue on hover */
+}
