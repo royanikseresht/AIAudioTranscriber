@@ -401,7 +401,6 @@ flowchart LR
 - To extensively edit/manipulate the generated transcript file(s) use the open source tool [Subtitle Edit](https://www.nikse.dk/subtitleedit) 
 - For Streamlit Sharing, mentioning versions of the modules in requirements throws error at times
 - Large Modelv2 outperforms all other versions of Whisper in terms of performance especially in Multi-lingual Transcription. However, it takes a 10 times more V-RAM than the base model and has longer inference time
-- To quickly record audio from system microphone use [this](https://github.com/smaranjitghose/miscellaneous/blob/master/handypython/data/audio/audio_recording.py) Python Script:
     - Pre-requisities:
 
         ```
