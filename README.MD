@@ -110,7 +110,7 @@ flowchart LR
 
 - Clone the repository 
     ```
-    git clone https://github.com/smaranjitghose/AIAudioTranscriber.git
+    git clone https://github.com/royanikseresht/AIAudioTranscriber.git
     ```
 - Change the directory to the cloned project
     
